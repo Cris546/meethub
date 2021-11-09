@@ -1,0 +1,15 @@
+.bio{
+  color: black;
+  border: double;
+  width: 700px;
+  text-align: center;
+
+}
+
+#main{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 500px;
+  align-items: left;
+}
